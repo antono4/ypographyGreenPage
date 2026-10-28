@@ -1,1 +1,26 @@
-Last updated: 2026-10-28 08:49:46 WIB
+# ypographyGreenPage
+
+
+
+## 📋 Overview
+
+This repository contains **7 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-28 12:25:39 WIB*
